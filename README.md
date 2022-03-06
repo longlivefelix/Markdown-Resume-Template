@@ -1,24 +1,41 @@
  <center>
-     <h1>XXX</h1>
+     <h1>奉伟</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：32  
+* 手 机：18610991628 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;邮 箱：teyion@163.com    
+* 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：后端研发工程师
 
-## 工作及教育经历
+## 教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 南京航空航天大学&emsp;&emsp;&emsp;&emsp;&emsp;2008.9~2012.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+
+## 工作经历
+
+* 百度&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;2020.7~至今 &emsp;&emsp;&emsp;&emsp;&emsp; 后端研发（业务线Server&FE小组组长）
+* 北京小桨博浪科技（后面被百度收购）&emsp;&emsp;&ensp;2018.12~2020.7&emsp;&emsp;&emsp;&emsp;后端研发
+
+-------
+* 北京问吧科技（学霸君k12教育）&emsp;&ensp;&emsp;&ensp;&emsp;&emsp;2018.10~2018.12&emsp;&emsp;&emsp; 后端研发（公司有裁员情况，主动离职）
+
+------
+* 北京兔袋鼠科技&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2016.10~2018.10&emsp;&emsp;&emsp; 创始人（创业）
+* 北京微笑科技&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2013.3~2016.10&emsp;&emsp;&emsp;&emsp;后端研发（创业）
+------
+* 新浪微博&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2012.8~2013.2&emsp;&emsp;&emsp;&emsp; 研发工程师         
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟练使用Go，了解 Java、C、C++、Python、PHP 等编程语言。
+* 掌握基础数据结构和算法的基本原理。
+* 熟悉推荐及搜索系统架构。
+* 熟悉常见互联网应用系统设计及搭建。
+* 熟悉Linux常规操作，包括不限于：bash脚本。
+* 熟练使用常见数据库：mysql，redis，elasticsearch。
+* 了解Docker，prometheus，grafana等监控及运维工具。
+* 了解一些特殊数据库：tidb，clickhouse，hbase。
 
 ## 项目经历
 
